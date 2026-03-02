@@ -1,2 +1,3 @@
 venv_bda_idl1/
-secrets.toml
+assets/
+.secrets/
